@@ -1,5 +1,4 @@
-echo "fuck yeah"
+echo "lalalalallala"
 mkdir hey
 cd hey
-touch fuck.txt
-weeeeeee
+
