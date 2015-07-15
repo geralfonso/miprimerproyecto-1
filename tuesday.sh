@@ -1,4 +1,4 @@
-echo "hola mundo"
+echo "fuck yeah"
 mkdir hey
 cd hey
 touch fuck.txt
